@@ -1,0 +1,166 @@
+
+drawables.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+left_arrow
+  rotate: false
+  xy: 1, 301
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+right_arrow
+  rotate: false
+  xy: 1, 107
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+new_project
+  rotate: false
+  xy: 195, 349
+  size: 192, 144
+  orig: 192, 144
+  offset: 0, 0
+  index: -1
+open_project
+  rotate: false
+  xy: 195, 203
+  size: 192, 144
+  orig: 192, 144
+  offset: 0, 0
+  index: -1
+touch_pad_background
+  rotate: false
+  xy: 1, 1
+  size: 192, 104
+  orig: 192, 104
+  offset: 0, 0
+  index: -1
+touch_pad_button_down
+  rotate: false
+  xy: 389, 389
+  size: 192, 104
+  orig: 192, 104
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 195, 73
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_draw
+  rotate: false
+  xy: 389, 259
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_flatten
+  rotate: false
+  xy: 583, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_inflate
+  rotate: false
+  xy: 713, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_paint
+  rotate: false
+  xy: 843, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_pinch
+  rotate: false
+  xy: 325, 73
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_button_smooth
+  rotate: false
+  xy: 519, 235
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_add_white_48dp
+  rotate: false
+  xy: 649, 267
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_button_brush
+  rotate: false
+  xy: 747, 267
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_folder
+  rotate: false
+  xy: 845, 267
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+loading_spinner
+  rotate: false
+  xy: 195, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ic_more_vert
+  rotate: false
+  xy: 649, 169
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_pan
+  rotate: false
+  xy: 747, 169
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_redo
+  rotate: false
+  xy: 845, 169
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_rotate
+  rotate: false
+  xy: 455, 137
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_undo
+  rotate: false
+  xy: 455, 39
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ic_zoom
+  rotate: false
+  xy: 553, 71
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
